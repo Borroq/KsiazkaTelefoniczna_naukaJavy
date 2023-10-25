@@ -125,6 +125,6 @@ public class TeleBookController {
         } catch (IOException e) {
             System.err.println("nie udalo się zapisac danych");
         }
-        System.out.println("Bye bye.");
+        System.out.println("Bye bye. See you!");
     }
 }
